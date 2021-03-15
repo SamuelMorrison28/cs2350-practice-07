@@ -1,2 +1,5 @@
 /* TODO */
+body {
+    background-color: beige;
+}
 @import "~bootstrap/dist/css/bootstrap.min.css";
